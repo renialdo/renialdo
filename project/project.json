@@ -2,7 +2,7 @@
     {
         "title": "Appro Application",
         "tech": "HTML & CSS",
-        "image": "./assets/img/project/capture1.PNG",
+        "image": "./assets/img/project/Capture1.PNG",
         "desc":"A website for a smartphone application.",
         "links": {
             "demo": "",
@@ -12,7 +12,7 @@
     {
         "title": "Snaptrade",
         "tech": "HTML, CSS & JS",
-        "image": "./assets/img/project/capture3.PNG",
+        "image": "./assets/img/project/Capture3.PNG",
         "desc":"This is a website for an online trading company",
         "links": {
             "demo": "",
@@ -21,7 +21,7 @@
     },{
         "title": "Snaptrade Lead Gen",
         "tech": "HTML & CSS",
-        "image": "./assets/img/project/capture4.PNG",
+        "image": "./assets/img/project/Capture4.PNG",
         "desc":"This is the other part of Snaptrade website where we can save new client enteries",
         "links": {
             "demo": "",
@@ -30,7 +30,7 @@
     },{
         "title": "Cyber Seasons",
         "tech": "Unity / C#",
-        "image": "./assets/img/project/capture2.PNG",
+        "image": "./assets/img/project/Capture2.PNG",
         "desc": "I created a 2D platform game with Unity",
         "links": {
             "demo": "",
@@ -39,7 +39,7 @@
     },{
         "title": "Portfolio Website",
         "tech": "HTML, CSS, JS & BOOTSTRAP",
-        "image": "./assets/img/project/capture5.PNG",
+        "image": "./assets/img/project/Capture5.PNG",
         "desc": "This is my project for personal portfolio.",
         "links": {
             "demo": "",
