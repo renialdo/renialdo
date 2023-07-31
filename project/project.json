@@ -5,7 +5,7 @@
         "image": "./assets/img/project/Capture1.PNG",
         "desc":"A website for a smartphone application.",
         "links": {
-            "demo": "",
+            "demo": "https://renialdo.github.io/appro/",
             "code": ""
         }
     },
@@ -15,7 +15,7 @@
         "image": "./assets/img/project/Capture3.PNG",
         "desc":"This is a website for an online trading company",
         "links": {
-            "demo": "",
+            "demo": "https://renialdo.github.io/snaptrade/",
             "code": ""
         }
     },{
@@ -42,7 +42,7 @@
         "image": "./assets/img/project/Capture5.PNG",
         "desc": "This is my project for personal portfolio.",
         "links": {
-            "demo": "",
+            "demo": "https://renialdo.github.io/renialdo/",
             "code": ""
         }
     }
